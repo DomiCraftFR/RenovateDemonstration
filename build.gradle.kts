@@ -14,4 +14,4 @@ dependencies {
     modImplementation(group = "net.fabricmc.fabric-api", name = "fabric-api", version = fabricApiVersion)
 }
 
-description = "RenovateTest"
+description = "RenovateDemonstration"
