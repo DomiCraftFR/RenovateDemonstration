@@ -4,7 +4,7 @@ plugins {
 
 var minecraftVersion = "1.17.1"
 var yarnMappings = "$minecraftVersion+build.1"
-var loaderVersion = "0.14.11"
+var loaderVersion = "0.14.12"
 var fabricApiVersion = "0.68.1+1.19.3"
 
 dependencies {
