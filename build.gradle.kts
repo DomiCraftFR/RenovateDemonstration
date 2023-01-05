@@ -5,7 +5,7 @@ plugins {
 var minecraftVersion = "1.17.1"
 var yarnMappings = "$minecraftVersion+build.1"
 var loaderVersion = "0.14.11"
-var fabricApiVersion = "0.68.1+1.19.3"
+var fabricApiVersion = "0.72.0+1.19.3"
 
 dependencies {
     minecraft(group = "com.mojang", name = "minecraft", version = minecraftVersion)
