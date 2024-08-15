@@ -1,9 +1,11 @@
 {
   "extends": [
-    "config:base",
-    ":switchToGradleLite"
+    "mergeConfidence:all-badges",
+    "config:recommended"
   ],
   "enabledManagers": [
-    "github-actions", "gradle", "gradle-wrapper"
+    "github-actions",
+    "gradle",
+    "gradle-wrapper"
   ]
 }
