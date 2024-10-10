@@ -1,5 +1,5 @@
 plugins {
-    id("fabric-loom").version("1.8.6")
+    id("fabric-loom").version("1.8.8")
 }
 
 var minecraftVersion = "1.17.1"
